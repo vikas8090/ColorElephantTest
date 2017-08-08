@@ -12,5 +12,4 @@ base_url/ColorElephant/admin
 
 In Application Folder all view files in views Folder and All controller files are in controllers Folder.
 
-
-
+All Database details are in colorelephant.sql file 
